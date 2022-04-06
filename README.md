@@ -23,7 +23,7 @@
    <img src="./pictures/autojs_view_ip.jpg" width="100">   
 2.确认电脑端和手机端都显示连接成功。  
 ### 运行Or调试。 
-   vscode在当前项目文件中继续Ctrl+Shift+P，选择在已经连接的设备运行当前脚本。
+   vscode在当前项目文件中继续Ctrl+Shift+P，选择在已经连接的设备运行当前脚本。  
    <img src="./pictures/vscode_connect_run.png" width="200">  
 
 > 如果对你有帮助请给个 **star** 支持，谢谢，欢迎交流~
