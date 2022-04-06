@@ -1,8 +1,8 @@
 # Rob_greens
-####本项目纯属学习，利用[Auto.Js](https://github.com/hyb1996/Auto.js?files=1)框架对安卓手机控件进行操作。\n
-####仅支持安卓手机（因为Auto.js的依赖）。\n
-####基于[robFood](https://github.com/sean529/robFood)进行延伸补充。
-####另外：Auto.Js现已只支持Auto.js-Pro，原先已经不能使用，需要注册后付费购买。
+本项目纯属学习，利用[Auto.Js](https://github.com/hyb1996/Auto.js?files=1)框架对安卓手机控件进行操作。\<br>
+仅支持安卓手机（因为Auto.js的依赖）。\<br>
+基于[robFood](https://github.com/sean529/robFood)进行延伸补充。\<br>
+另外：Auto.Js现已只支持Auto.js-Pro，原先已经不能使用，需要注册后付费购买。
 
 
 ## 使用
