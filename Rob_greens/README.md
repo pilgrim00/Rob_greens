@@ -16,14 +16,14 @@
 #### 手机上安装AutoJsPro（应用市场应该可以找到）
 #### 打开AutoJsPro，打开无障碍服务（下拉开通一个权限）。
 #### 连接准备：客户端模式和服务器模式都打开（手机和电脑连接相同的 wifi，处于同样的局域内网才能连接） 
-    <img src="./pictures/autojs_view.png" width="300">
+    <img src="./pictures/autojs_view.jpg" width="100">
 ### 电脑端和手机端连接。
 #### 电脑端输入Ctrl+Shift+P,选择连接新设备,输入目标手机的IP。 
   （windows电脑端在命令行输入ipconfig后IPV4地址就是内网地址，手机端软件中开启服务器模式后可以看到自己内网IP）
-   <img src="./pictures/autojs_view_ip.png" width="300">
+   <img src="./pictures/autojs_view_ip.jpg" width="100">
 #### 确认电脑端和手机端都显示连接成功。
 ### 运行Or调试。 
    vscode在当前项目文件中继续Ctrl+Shift+P，选择在已经连接的设备运行当前脚本。
-   <img src="./pictures/vscode_connect_run.jpeg" width="300">
+   <img src="./pictures/vscode_connect_run.png" width="200">
 
 > 如果对你有帮助请给个 **star** 支持，谢谢~~
