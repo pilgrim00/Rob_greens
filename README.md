@@ -2,9 +2,9 @@
 本项目纯属学习，基于[robFood](https://github.com/sean529/robFood)进行延伸补充，  
 利用[Auto.Js](https://github.com/hyb1996/Auto.js?files=1)框架对安卓手机控件进行操作，    
 仅支持安卓手机（因为Auto.js的依赖）。  
-另外：Auto.Js现已只支持Auto.js-Pro，原先已经不能使用，需要注册后付费购买。  
-[学习工具文档](https://pro.autojs.org/docs/#/zh-cn/?id=%e7%bb%bc%e8%bf%b0)
-
+另外：Auto.Js现已只支持Auto.js-Pro，原先已经不能使用，需要注册后付费购买。    
+感谢这位大佬找到[免费地址](https://github.com/qulingyuan/robVeg)，[百度网盘链接](https://pan.baidu.com/s/1zBTij7imoLCKf1bm7HtY6Q),提取码n9jc。   
+[学习工具文档](https://pro.autojs.org/docs/#/zh-cn/?id=%e7%bb%bc%e8%bf%b0)  
 
 ## 使用
 
@@ -25,5 +25,6 @@
 ### 运行Or调试。 
    vscode在当前项目文件中继续Ctrl+Shift+P，选择在已经连接的设备运行当前脚本。  
    <img src="./pictures/vscode_connect_run.png" width="200">  
-
+###配合定时使用。
+增加了屏幕数字解锁，最后调试完可以代码下载到手机端定时运行，无需电脑介入。
 > 如果对你有帮助请给个 **star** 支持，谢谢，欢迎交流~
