@@ -1,18 +1,18 @@
-//新手美菜商城（App）买菜
+//新手美菜商城（App）买菜,美菜的优势在于大份量的蔬菜。
 const clickSettle = () => {
-	var widget=id('button_cart_charge').findOne();
-	click(widget.bounds().centerX(), widget.bounds().centerY());
+	let loc = id('button_cart_charge').findOne().bounds();
+	click(loc.centerX(), loc.centerY());
 }
 const hasText = (text) => {
 	return textStartsWith(text).exists() // 是否存在指定文本
 }
 const clicktext = (text) => {
-	var widget=textStartsWith(text).findOne();
-	click(widget.bounds().centerX(), widget.bounds().centerY());
+	let loc =textStartsWith(text).findOne();
+	click(loc.centerX(), loc.centerY());
 }
 const try_1 = () => {
-	var widget = textStartsWith('去结算').findOne();
-	click(widget.bounds().centerX(), widget.bounds().centerY());
+	let loc = textStartsWith('去结算').findOne().bounds();
+	click(loc.centerX(), loc.centerY());
 	sleep(1000);
 	try_1();
 }
